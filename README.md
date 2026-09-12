@@ -47,7 +47,7 @@ Python EDA, Predictive Modeling, and a Statistical/Dashboard report.
 - Written statistical report with methodology & findings (`reports/DataCo_Statistical_Report.docx`)
 
 ## 📸 Dashboard Preview
-![Dashboard](outputs/charts/01_monthly_sales.png)
+![Dashboard](https://github.com/AJ59-GIT/dataco-supply-chain-analysis/blob/main/Image/Excel_Dashboard.png)
 
 ## 🔍 Key Findings
 - Suspected fraud (4,062 orders) occurs exclusively on `TRANSFER` payment orders
