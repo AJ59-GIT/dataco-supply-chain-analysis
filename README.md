@@ -176,7 +176,7 @@ DataCo_Supply_Chain_Analytics
 89
  
 90
-Image/Excel_Dashboard.png
+[Image/Excel_Dashboard.png](https://github.com/AJ59-GIT/dataco-supply-chain-analysis/blob/main/Image/Excel_Dashboard.png)
 91
  
 92
@@ -188,15 +188,15 @@ Image/Excel_Dashboard.png
 95
  
 96
-Image/01_monthly_sales.png
+[Image/01_monthly_sales.png](https://github.com/AJ59-GIT/dataco-supply-chain-analysis/blob/main/Image/01_monthly_sales.png)
 97
-Image/02_top_categories.png
-98
-Image/03_conversion_index.png
+[Image/02_top_categories.png](https://github.com/AJ59-GIT/dataco-supply-chain-analysis/blob/main/Image/02_top_categories.png)
+98[
+Image/03_conversion_index.png](http://github.com/AJ59-GIT/dataco-supply-chain-analysis/blob/main/Image/03_conversion_index.png)
 99
-Image/04_shipping_promise_gap.png
+[Image/04_shipping_promise_gap.png](https://github.com/AJ59-GIT/dataco-supply-chain-analysis/blob/main/Image/04_shipping_promise_gap.png)
 100
-Image/05_fraud_confusion_matrix.png
+[Image/05_fraud_confusion_matrix.png](https://github.com/AJ59-GIT/dataco-supply-chain-analysis/blob/main/Image/05_fraud_confusion_matrix.png)
 101
  
 102
