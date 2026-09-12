@@ -1,0 +1,5 @@
+Shipping Mode,Scheduled_Days,Real_Days,Late_Rate
+First Class,1.0,2.0,0.95
+Same Day,0.0,0.48,0.46
+Second Class,2.0,3.99,0.77
+Standard Class,4.0,4.0,0.38

@@ -1,0 +1,8 @@
+Model,Metric,Value
+Fraud Classifier,AUC,0.8749
+Fraud Classifier,Recall,0.9813
+Fraud Classifier,Precision,0.0819
+Late Delivery Classifier,AUC,0.7413
+Late Delivery Classifier,Baseline,0.5483
+Sales Trend (stable period),R-squared,0.2294
+Sales Trend (stable period),Monthly Slope,1986.17
