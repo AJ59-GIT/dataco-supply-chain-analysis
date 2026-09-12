@@ -76,6 +76,6 @@ cd src && python dataco_analysis.py
 ```
 
 ## 👤 Author
-**<Your Name>**
-- GitHub: github.com/<your-username>
-- LinkedIn: linkedin.com/in/<your-linkedin>
+**AJ Chauhan**
+- GitHub: github.com/AJ59-GIT
+- LinkedIn: linkedin.com/in/anjeetchauhan
