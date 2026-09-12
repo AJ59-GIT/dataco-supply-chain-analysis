@@ -176,7 +176,7 @@ DataCo_Supply_Chain_Analytics
 89
  
 90
-[Image/Excel_Dashboard.png](https://github.com/AJ59-GIT/dataco-supply-chain-analysis/blob/main/Image/Excel_Dashboard.png)
+https://github.com/AJ59-GIT/dataco-supply-chain-analysis/blob/main/Image/Excel_Dashboard.png
 91
  
 92
